@@ -6,12 +6,14 @@ Discontinued indefinitely, the successing project will be the TyrEngine.
 Please feel free to poke around the code.
 
 ##Features
-Custom Models via an array of vertices (No .obj or similar file format loader)
+-Custom Models via an array of vertices (No .obj or similar file format loader)
 
-MVP Matrices
+-Models may contain more than one mesh, each with their own shaders
 
-Model Transformations - Scale, Rotation, Translation
+-MVP Matrices
 
-Caches for textures and shaders
+-Model Transformations - Scale, Rotation, Translation
 
-Shader Support
+-Caches for textures and shaders
+
+-Shader Support
